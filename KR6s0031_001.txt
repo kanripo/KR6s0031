@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:07:58.064057
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:55
 #+TITLE: 大乘要語
 #+PROPERTY: CBETA_ID T85n2822
 #+PROPERTY: ID KR6s0031
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2822
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0031_T_000-1205c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6s0031_T_001-1205c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2822¶
-
- 大乘要語一卷¶
+No. 2822¶
+大乘要語一卷¶
 ¶
 
 水油同形非農人不識(喻真妄)來時見事生(見心¶
@@ -86,7 +85,7 @@ No.2822¶
 不覺。發心畢竟二不別。如是二心先心難。初¶
 發以為天人師。勝出聲聞及緣覺。¶
 
-菩薩清涼月。遊於畢竟空。眾生心氷淨。菩提¶
+菩薩青涼月。遊於畢竟空。眾生心氷淨。菩提¶
 影現中。身是菩提樹。心是明鏡臺。時時拂力¶
 下。不備若塵埃。無樹而有影(譬如虛空中)風衢以鳥¶
 跡。此見悉為難。能遣及所造。色亦非色法。於¶
