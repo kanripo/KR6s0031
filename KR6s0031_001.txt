@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:07:58.064057
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:55
 #+TITLE: 大乘要語
 #+PROPERTY: CBETA_ID T85n2822
 #+PROPERTY: ID KR6s0031
